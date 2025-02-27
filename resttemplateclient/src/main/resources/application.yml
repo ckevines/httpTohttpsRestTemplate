@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: RestTemplateClient
+
+server:
+  port: 8080
+  # HTTPS server URL
+api:
+  server:
+    url: https://localhost:8443/api
